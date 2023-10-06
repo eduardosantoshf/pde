@@ -2,7 +2,7 @@
  * @Author: Eduardo Santos
  * @Date:   2023-10-05 21:18:26
  * @Last Modified by:   Eduardo Santos
- * @Last Modified time: 2023-10-06 19:08:17
+ * @Last Modified time: 2023-10-06 19:27:55
  */
 
 // @ts-check
@@ -117,10 +117,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
