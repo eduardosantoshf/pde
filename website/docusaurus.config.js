@@ -2,7 +2,7 @@
  * @Author: Eduardo Santos
  * @Date:   2023-10-05 21:18:26
  * @Last Modified by:   Eduardo Santos
- * @Last Modified time: 2023-10-05 21:22:36
+ * @Last Modified time: 2023-10-06 19:08:17
  */
 
 // @ts-check
@@ -13,9 +13,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Preparação de Dissertação',
+  tagline: 'Website para a Cadeira de Preparação de Dissertação/Estágio',
+  favicon: 'img/computer-science.ico',
 
   // Set the production url of your site here
   url: 'https://eduardosantoshf.github.io',
@@ -25,8 +25,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'eduardosantoshf', // Usually your GitHub org/user name.
+  projectName: 'pd', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,13 +51,7 @@ const config = {
           editUrl:
             'https://github.com/eduardosantoshf/pd/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/eduardosantoshf/pd/tree/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -71,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'PD',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -81,9 +75,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Start',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/eduardosantoshf/pd',
             label: 'GitHub',
@@ -134,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Eduardo Santos, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

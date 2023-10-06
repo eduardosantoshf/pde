@@ -1,4 +1,10 @@
 /**
+ * @Author: Eduardo Santos
+ * @Date:   2023-10-05 21:18:26
+ * @Last Modified by:   Eduardo Santos
+ * @Last Modified time: 2023-10-06 18:52:26
+ */
+/**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
  - render a sidebar for each doc of that group
