@@ -12,7 +12,7 @@ This repository was developed under the [Dissertation/Internship Preparation](ht
 |    3   |  17-10  |                            Dissertação e portefólio                           |
 |    4   |  24-10  |               Seleção de Fontes de Informação científica (SBIDM)              |
 |    5   |  31-10  |                                     Sprint                                    |
-|    6   |   7-11  | Gerir referências bibliográficas com o Mendeley RM (SBIDM) - ver requisitos * |
+|    6   |   7-11  |              Gerir referências bibliográficas com o Mendeley RM (SBIDM)       |
 |    7   |  14-11  |                            Dissertação e portefólio                           |
 |    8   |  21-11  |                                     Sprint                                    |
 |    9   |  28-11  |                            Dissertação e portefólio                           |
