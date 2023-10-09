@@ -2,7 +2,7 @@
  * @Author: Eduardo Santos
  * @Date:   2023-10-05 21:18:26
  * @Last Modified by:   Eduardo Santos
- * @Last Modified time: 2023-10-06 19:27:55
+ * @Last Modified time: 2023-10-09 16:16:41
  */
 
 // @ts-check
@@ -68,7 +68,7 @@ const config = {
         title: 'PD',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/computer-science.png',
         },
         items: [
           {
