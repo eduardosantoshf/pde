@@ -2,7 +2,7 @@
  * @Author: Eduardo Santos
  * @Date:   2023-10-05 21:18:26
  * @Last Modified by:   Eduardo Santos
- * @Last Modified time: 2023-10-09 16:16:41
+ * @Last Modified time: 2023-11-02 19:45:07
  */
 
 // @ts-check
@@ -21,12 +21,12 @@ const config = {
   url: 'https://eduardosantoshf.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/pd/',
+  baseUrl: '/pde/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'eduardosantoshf', // Usually your GitHub org/user name.
-  projectName: 'pd', // Usually your repo name.
+  projectName: 'pde', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -49,7 +49,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/eduardosantoshf/pd/tree/main/',
+            'https://github.com/eduardosantoshf/pde/tree/main/',
         },
         blog: false,
         theme: {
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'PD',
+        title: 'PDE',
         logo: {
           alt: 'My Site Logo',
           src: 'img/computer-science.png',
@@ -79,7 +79,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/eduardosantoshf/pd',
+            href: 'https://github.com/eduardosantoshf/pde',
             label: 'GitHub',
             position: 'right',
           },
