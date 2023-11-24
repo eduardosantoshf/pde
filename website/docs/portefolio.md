@@ -9,7 +9,7 @@ sidebar_position: 2
 
 Data: de 12/10/2013 a 27/10/2013
 
-Esta edição do WF-IoT decorreu em formato híbrido em Aveiro, de 12 a 27 de outubro, sendo que, de 16 a 20 decorreu no formato híbrido, no Centro de Congressos de Aveiro, e na semana seguinte decorreu no formato remoto.
+Esta edição do WF-IoT ([link](https://wfiot2023.iot.ieee.org/)) decorreu em formato híbrido em Aveiro, de 12 a 27 de outubro, sendo que, de 16 a 20 decorreu no formato híbrido, no Centro de Congressos de Aveiro, e na semana seguinte decorreu no formato remoto.
 
 Relativamente à minha participação, ajudei na organização do evento. Esta ajuda incluiu a criação das sessões Zoom, receber os speakers, e principalmente a **gestão da equipa de voluntários**.
 
@@ -25,6 +25,16 @@ Neste evento, os projetos europeus [5GASP](https://www.5gasp.eu/) e [5G-EPICENTR
 
 O meu papel no evento foi o de prestar apoio às equipas destes projetos, sendo que faço parte do projeto 5GASP.
 
+## Conferência 2023 European Quality Assurance Forum (EQAF2023)
+
+Data: 23/11/2023 e 24/11/2023
+
+O [EQAF2023](https://eua.eu/events/124-2023-european-quality-assurance-forum.html) decorreu num formato presencial, na Universida de Aveiro, nos dias 23 e 24 de novembro.
+
+Esta conferência combinou sessões sobre políticas e tendências, investigação e exemplos de casos práticos relacionados com o tema do Fórum e, de forma mais geral, sobre os desenvolvimentos atuais na garantia da qualidade.
+
+O meu papel na conferência foi o de voluntário, ajudando na parte da credenciação dos participantes.
+
 # Palestras
 
 ## Introduction to Open Source - Red Hat Academy
@@ -38,6 +48,15 @@ Esta palestra teve como principal objetivo dar uma introdução ao desenvolvimen
 Data: 03/11/2023
 
 Esta palestra teve como principais tópicos como as vulnerabilidades do embedded-SIM (eSIM) e como este pode ser usado e os seus benefícios para IoT.
+
+## Testing in a Micro-Service Architecture
+
+Data: 21/11/2023
+
+Nesta palestra, foram abordados temas cruciais para o desenvolvimento de software moderno, incluindo o papel vital do Engenheiro de QA, a exploração do Modelo de Desenvolvimento Inner Source GBP, estratégias específicas para testar Micro-Serviços e uma apresentação abrangente dos diferentes tipos de testes. Além disso, a palestra ofereceu uma demonstração prática de como o GitHub Actions pode ser empregado para apoiar efetivamente a Estratégia de Testes, destacando sua integração no processo de desenvolvimento e sua capacidade de automatizar e facilitar as atividades de teste.
+
+Esta palestra foi útil para mim no sentido em que a minha dissertação é na área de DevOps, e tanto a arquitetura do 
+[Openslice](https://openslice.readthedocs.io/en/latest/) como do [OSM](https://osm.etsi.org/) são arquiteturas de microsserviços, sendo o testing das mesmas algo bastante importante no processo.
 
 # Webinars
 
