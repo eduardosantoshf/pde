@@ -35,9 +35,25 @@ Presentation date: 21/11/2023
     * Onboarded NSD and VNFD to Openslice;
     * Provisioned (deployed) a testing Network Application from the previous descriptors.
 
-
 ### Future work / challenges
 
 * Explore with more detail the features of Openslice, and how can Network Slicing be implemented on it;
 * Define the software to be used to emulate a 5G core (5GC), for the network slice instantiation;
 * Define the architecture of the solution.
+
+## Sprint 3
+
+Presentation date: 05/12/2023
+
+### Work done / results
+
+* Continued writing the SoA;
+* Documented some use cases provided by Openslice;
+* Started working on a new micro-service for Openslice, which will provide information about its other micro-service versions;
+* Defined a initial version of the architecture.
+
+### Future work / challenges
+
+* Finish a first version of the State of the Art;
+* Continue developing the micro-service for Openslice;
+* Continue reading papers about Network Slicing.
