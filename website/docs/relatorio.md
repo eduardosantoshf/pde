@@ -57,3 +57,18 @@ Presentation date: 05/12/2023
 * Finish a first version of the State of the Art;
 * Continue developing the micro-service for Openslice;
 * Continue reading papers about Network Slicing.
+
+## Sprint 4
+
+Presentation date: 19/12/2023
+
+### Work done / results
+
+* Continued writing the SoA;
+* Read some papers about Software-Defined Networking (SDN), as new requirements for the solution appeared;
+* Searched about TeraFlowSDN, a cloud-native SDN controller, which will be used in the communication between network components to provide E2E network slicing.
+
+### Future work / challenges
+
+* Finish writing the SoA;
+* Begin theimplementation of network slicing mechanisms for Openslice.
